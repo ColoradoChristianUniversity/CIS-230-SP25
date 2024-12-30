@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Service [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Service/Service.csproj",
+            "serverReadyAction": {
+                "action": "debugWithEdge",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/health"
+            },
+            "preLaunchTask": "build"
+        }
+    ]
+}

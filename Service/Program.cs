@@ -1,41 +1,34 @@
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.AspNetCore.Diagnostics.HealthChecks;
+using Microsoft.Extensions.Options;
 
-// Add services to the container.
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+using Service.Library.Health;
+
+var url = "http://localhost";
+var port = "1234";
+
+var builder = WebApplication.CreateBuilder(args);
+builder.WebHost.UseUrls($"{url}:{port}");
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+builder.Services.AddHealthChecks()
+    .AddCheck<NowServiceHealthCheck>(nameof(NowServiceHealthCheck), tags: new[] { $"url={url}", $"port={port}" });
 
 var app = builder.Build();
-
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    app.UseSwagger();
+    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1"));
 }
-
 app.UseHttpsRedirection();
-
-var summaries = new[]
+app.MapHealthChecks("/health", new HealthCheckOptions
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
-
+    ResponseWriter = CustomWriter.WriteResponse
+});
+MapCustomEndpoints(app);
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
+static void MapCustomEndpoints(WebApplication app)
 {
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+    app.MapGet("/now", Service.Library.Endpoints.GetNow);
 }
+

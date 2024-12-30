@@ -1,5 +1,9 @@
 {
     "recommendations": [
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.dotnet-interactive-vscode",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-vsliveshare.vsliveshare",
         "humao.rest-client",
         "github.copilot"
     ],

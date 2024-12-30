@@ -2,16 +2,21 @@
 <package>
   <metadata>
     <id>CIS-230-SP25.Template</id>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <authors>JerryNixon</authors>
     <owners>JerryNixon</owners>
-    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <license type="expression">MIT</license>
     <projectUrl>https://github.com/your-repo-url</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Project template for CIS-230-SP25</description>
     <tags>CIS-230-SP25 ColoradoChristianUniversity CCU</tags>
   </metadata>
   <files>
-    <file src="**" target="content" />
+    <file src="README.md" target="" />
+    <file src=".gitignore" target="" />
+    <file src=".editorconfig" target="" />
+    <file src=".vscode/**" target="content/.vscode" />
+    <file src="**" target="content" exclude=".git/**;nuget.exe;.template.config/**" />
   </files>
 </package>
