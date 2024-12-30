@@ -1,0 +1,5 @@
+{
+    "csharp.debug.logging.moduleLoad": false,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.editor.enableAutoCompletions": true
+}
