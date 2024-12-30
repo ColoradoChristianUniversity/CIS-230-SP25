@@ -27,4 +27,44 @@ public static class Logic
             _ => new[] { 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 } // Prime numbers
         };
     }
+
+    public static (string Name, string StateCode)[] GenerateStates()
+    {
+        return
+        [
+            ("Alabama", "AL"), ("Alaska", "AK"), ("Arizona", "AZ"), ("Arkansas", "AR"),
+            ("California", "CA"), ("Colorado", "CO"), ("Connecticut", "CT"), ("Delaware", "DE"),
+            ("Florida", "FL"), ("Georgia", "GA"), ("Hawaii", "HI"), ("Idaho", "ID"),
+            ("Illinois", "IL"), ("Indiana", "IN"), ("Iowa", "IA"), ("Kansas", "KS"),
+            ("Kentucky", "KY"), ("Louisiana", "LA"), ("Maine", "ME"), ("Maryland", "MD"),
+            ("Massachusetts", "MA"), ("Michigan", "MI"), ("Minnesota", "MN"), ("Mississippi", "MS"),
+            ("Missouri", "MO"), ("Montana", "MT"), ("Nebraska", "NE"), ("Nevada", "NV"),
+            ("New Hampshire", "NH"), ("New Jersey", "NJ"), ("New Mexico", "NM"), ("New York", "NY"),
+            ("North Carolina", "NC"), ("North Dakota", "ND"), ("Ohio", "OH"), ("Oklahoma", "OK"),
+            ("Oregon", "OR"), ("Pennsylvania", "PA"), ("Rhode Island", "RI"), ("South Carolina", "SC"),
+            ("South Dakota", "SD"), ("Tennessee", "TN"), ("Texas", "TX"), ("Utah", "UT"),
+            ("Vermont", "VT"), ("Virginia", "VA"), ("Washington", "WA"), ("West Virginia", "WV"),
+            ("Wisconsin", "WI"), ("Wyoming", "WY")
+        ];
+    }
+
+    public static (string Name, string StateCode)[] GenerateCapitals()
+    {
+        return
+        [
+            ("Montgomery", "AL"), ("Juneau", "AK"), ("Phoenix", "AZ"), ("Little Rock", "AR"),
+            ("Sacramento", "CA"), ("Denver", "CO"), ("Hartford", "CT"), ("Dover", "DE"),
+            ("Tallahassee", "FL"), ("Atlanta", "GA"), ("Honolulu", "HI"), ("Boise", "ID"),
+            ("Springfield", "IL"), ("Indianapolis", "IN"), ("Des Moines", "IA"), ("Topeka", "KS"),
+            ("Frankfort", "KY"), ("Baton Rouge", "LA"), ("Augusta", "ME"), ("Annapolis", "MD"),
+            ("Boston", "MA"), ("Lansing", "MI"), ("St. Paul", "MN"), ("Jackson", "MS"),
+            ("Jefferson City", "MO"), ("Helena", "MT"), ("Lincoln", "NE"), ("Carson City", "NV"),
+            ("Concord", "NH"), ("Trenton", "NJ"), ("Santa Fe", "NM"), ("Albany", "NY"),
+            ("Raleigh", "NC"), ("Bismarck", "ND"), ("Columbus", "OH"), ("Oklahoma City", "OK"),
+            ("Salem", "OR"), ("Harrisburg", "PA"), ("Providence", "RI"), ("Columbia", "SC"),
+            ("Pierre", "SD"), ("Nashville", "TN"), ("Austin", "TX"), ("Salt Lake City", "UT"),
+            ("Montpelier", "VT"), ("Richmond", "VA"), ("Olympia", "WA"), ("Charleston", "WV"),
+            ("Madison", "WI"), ("Cheyenne", "WY")
+        ];
+    }
 }

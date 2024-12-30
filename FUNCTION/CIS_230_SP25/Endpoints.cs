@@ -1,5 +1,4 @@
-using System.Net;
-using System.Text.Json;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using static CIS_230_SP25.Logic;
@@ -9,17 +8,33 @@ namespace CIS_230_SP25;
 public class Endpoints
 {
     [Function("StringArray")]
-    public HttpResponseData RunStringArray([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequestData req)
+    public IActionResult RunStringArray([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequestData req)
     {
-        var result = GenerateStringArray(ReadOptionalIndex(req));
-        return CreateOkResponse(req, result);
+        var index = ReadOptionalIndex(req);
+        var result = GenerateStringArray(index);
+        return new OkObjectResult(result);
     }
 
     [Function("IntegerArray")]
-    public HttpResponseData RunIntegerArray([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequestData req)
+    public IActionResult RunIntegerArray([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequestData req)
     {
-        var result = GenerateIntegerArray(ReadOptionalIndex(req));
-        return CreateOkResponse(req, result);
+        var index = ReadOptionalIndex(req);
+        var result = GenerateIntegerArray(index);
+        return new OkObjectResult(result);
+    }
+
+    [Function("States")]
+    public IActionResult RunStates([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequestData req)
+    {
+        var result = GenerateStates();
+        return new OkObjectResult(result.Select(s => new { s.StateCode, State = s.Name }));
+    }
+
+    [Function("Capitals")]
+    public IActionResult RunCapitals([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequestData req)
+    {
+        var result = GenerateCapitals();
+        return new OkObjectResult(result.Select(s => new { s.StateCode, City = s.Name }));
     }
 
     private static int ReadOptionalIndex(HttpRequestData req)
@@ -30,13 +45,5 @@ public class Endpoints
         }
         var queryParameters = System.Web.HttpUtility.ParseQueryString(req.Url.Query);
         return int.TryParse(queryParameters["index"], out var parsedIndex) ? parsedIndex : Random.Shared.Next(6);
-    }
-
-    private static HttpResponseData CreateOkResponse(HttpRequestData req, object result)
-    {
-        var response = req.CreateResponse(HttpStatusCode.OK);
-        var json = JsonSerializer.Serialize(result);
-        response.WriteString(json);
-        return response;
     }
 }

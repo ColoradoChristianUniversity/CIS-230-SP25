@@ -1,8 +1,4 @@
-﻿using System.Text.Json;
-using System.Threading.Tasks;
-using Microsoft.Azure.Functions.Worker.Http;
-
-namespace CIS_230_SP25.Tests;
+﻿namespace CIS_230_SP25.Tests;
 
 public class LogicTests
 {
@@ -34,5 +30,19 @@ public class LogicTests
         Assert.IsType<int[]>(result);
         Assert.NotNull(result);
         Assert.NotEmpty(result);
+    }
+
+    [Fact]
+    public void StatesCapitals_JoinStateCode_ReturnsFifty()
+    {
+        // Act
+        var states = Logic.GenerateStates();
+        var capitals = Logic.GenerateCapitals();
+        var combination = states.Join(capitals, s => s.StateCode, c => c.StateCode, (s, c) => new { City = s.Name, State = c.Name });
+
+        // Assert
+        Assert.Equal(50, states.Length);
+        Assert.Equal(50, capitals.Length);
+        Assert.Equal(50, combination.Count());
     }
 }
