@@ -1,6 +1,10 @@
-@Service_HostAddress = http://localhost:5074
+@Service_HostAddress = http://localhost:1234
 
-GET {{Service_HostAddress}}/weatherforecast/
+### /health
+GET {{Service_HostAddress}}/
 Accept: application/json
 
-###
+### /now
+GET {{Service_HostAddress}}/now
+Accept: application/json
+

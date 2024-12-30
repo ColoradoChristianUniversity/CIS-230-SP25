@@ -1,16 +1,38 @@
 {
+    "version": "0.2.0",
     "configurations": [
         {
-            "name": "C#: Service [Default Configuration]",
+            "name": "Service: Debug with Edge",
             "type": "dotnet",
             "request": "launch",
             "projectPath": "${workspaceFolder}/Service/Service.csproj",
+            /*
             "serverReadyAction": {
                 "action": "debugWithEdge",
                 "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
-                "uriFormat": "%s/health"
+                "uriFormat": "%s/"
             },
-            "preLaunchTask": "build"
+            */
+            "preLaunchTask": "build-and-open-service-http"
+        },
+        {
+            "name": "Console Client: External Terminal",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Client/bin/Debug/net9.0/Client.dll",
+            "args": ["--wait"],
+            "cwd": "${workspaceFolder}/Client",
+            "preLaunchTask": "build-console-client",
+            "console": "externalTerminal"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Launch Service and Console Client",
+            "configurations": [
+                "Service: Debug with Edge",
+                "Console Client: External Terminal"
+            ]
         }
     ]
 }

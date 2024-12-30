@@ -1,31 +1,36 @@
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
-using Microsoft.Extensions.Options;
 
 using Service.Library.Health;
 
-var url = "http://localhost";
-var port = "1234";
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
+var (url, port) = ParseConfiguration(builder.Configuration);
+
 builder.WebHost.UseUrls($"{url}:{port}");
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 builder.Services.AddHealthChecks()
     .AddCheck<NowServiceHealthCheck>(nameof(NowServiceHealthCheck), tags: new[] { $"url={url}", $"port={port}" });
 
 var app = builder.Build();
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1"));
-}
 app.UseHttpsRedirection();
-app.MapHealthChecks("/health", new HealthCheckOptions
+app.MapHealthChecks("/", new HealthCheckOptions
 {
     ResponseWriter = CustomWriter.WriteResponse
 });
 MapCustomEndpoints(app);
 app.Run();
+
+static (string Url, int port) ParseConfiguration(IConfiguration configuration)
+{
+    var url = configuration.GetValue<string>("Kestrel:Urls");
+    if (url is null)
+    {
+        throw new InvalidOperationException("Kestrel:Urls is not configured");
+    }
+    var uri = new Uri(url);
+    return ($"{uri.Scheme}://{uri.Host}", uri.Port);
+}
 
 static void MapCustomEndpoints(WebApplication app)
 {
