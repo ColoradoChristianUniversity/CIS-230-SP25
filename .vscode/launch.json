@@ -20,7 +20,7 @@
             "type": "coreclr",
             "request": "launch",
             "program": "${workspaceFolder}/Client/bin/Debug/net9.0/Client.dll",
-            "args": ["--wait"],
+            "args": [],
             "cwd": "${workspaceFolder}/Client",
             "preLaunchTask": "build-console-client",
             "console": "externalTerminal"
