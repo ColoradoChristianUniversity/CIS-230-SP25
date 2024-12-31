@@ -46,12 +46,12 @@ public static class Menu
         Console.CursorVisible = false;
     }
 
-    public static ConsoleColor HeaderBackground = ConsoleColor.Black;
-    public static ConsoleColor HeaderForeground = ConsoleColor.Green;
-    public static ConsoleColor OptionBackground = ConsoleColor.Black;
-    public static ConsoleColor OptionForeground = ConsoleColor.White;
-    public static ConsoleColor HighlightBackground = ConsoleColor.White;
-    public static ConsoleColor HighlightForeground = ConsoleColor.Black;
+    public static ConsoleColor HeaderBackground { get; set; } = ConsoleColor.Black;
+    public static ConsoleColor HeaderForeground { get; set; } = ConsoleColor.Green;
+    public static ConsoleColor OptionBackground { get; set; } = ConsoleColor.Black;
+    public static ConsoleColor OptionForeground { get; set; } = ConsoleColor.White;
+    public static ConsoleColor HighlightBackground { get; set; } = ConsoleColor.White;
+    public static ConsoleColor HighlightForeground { get; set; } = ConsoleColor.Black;
 
     public static string Show(out int selection, params string[] options)
     {
@@ -99,20 +99,35 @@ public static class Menu
         {
             var foreground = (highlight == i + 1) ? HighlightForeground : OptionForeground;
             var background = (highlight == i + 1) ? HighlightBackground : OptionBackground;
-            $" {i + 1}. {options[i]}".WriteLine(x: 2, foreground: foreground, background: background);
+            // add padding
+            $" {i + 1:00}. {options[i]} ".WriteLine(x: 2, foreground: foreground, background: background);
         }
 
         Console.SetCursorPosition(0, originalTop);
     }
 
-    private static void WaitFor(out ConsoleKey key, params ConsoleKey[] allowed)
-    {
-        while (Console.KeyAvailable)
-        {
-            Console.ReadKey(intercept: true);
-        }
-        while (!allowed.Contains(key = Console.ReadKey(true).Key)) { }
-    }
+    /// <summary>
+    /// Waits for a key press that matches one of the allowed keys.
+    /// </summary>
+    /// <param name="key">The key that was pressed.</param>
+    /// <param name="allowed">An array of allowed keys.</param>
+    /// <remarks>
+    /// This method will clear any existing key presses in the input buffer before waiting for a valid key press.
+    /// </remarks>
+    /// <example>
+    /// <code>
+    /// ConsoleKey pressedKey;
+    /// WaitFor(out pressedKey, ConsoleKey.Y, ConsoleKey.N);
+    /// if (pressedKey == ConsoleKey.Y)
+    /// {
+    ///     Console.WriteLine("You pressed Yes.");
+    /// }
+    /// else if (pressedKey == ConsoleKey.N)
+    /// {
+    ///     Console.WriteLine("You pressed No.");
+    /// }
+    /// </code>
+    /// </example>
 }
 
 public static class Extensions
