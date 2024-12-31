@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.dotnet-interactive-vscode",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "bierner.markdown-mermaid",
+        "ms-vsliveshare.vsliveshare",
+        "humao.rest-client",
+        "github.copilot"
+    ],
+    "unwantedRecommendations": []
+}
