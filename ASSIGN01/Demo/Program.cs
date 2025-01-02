@@ -15,7 +15,7 @@ while (true)
 
 static async Task<string[]> LoadOptionsAsync()
 {
-    Console.WriteLine("Loading options...");
+    Console.WriteLine("Loading data...");
     var options = await new HttpClient()
         .GetFromJsonAsync<string[]>("https://cis-230-sp25.azurewebsites.net/api/StringArray")
         ?? throw new Exception("Failed to get options");
@@ -107,27 +107,18 @@ public static class Menu
     }
 
     /// <summary>
-    /// Waits for a key press that matches one of the allowed keys.
+    /// Waits for the user to press one of the specified allowed keys.
     /// </summary>
-    /// <param name="key">The key that was pressed.</param>
-    /// <param name="allowed">An array of allowed keys.</param>
-    /// <remarks>
-    /// This method will clear any existing key presses in the input buffer before waiting for a valid key press.
-    /// </remarks>
-    /// <example>
-    /// <code>
-    /// ConsoleKey pressedKey;
-    /// WaitFor(out pressedKey, ConsoleKey.Y, ConsoleKey.N);
-    /// if (pressedKey == ConsoleKey.Y)
-    /// {
-    ///     Console.WriteLine("You pressed Yes.");
-    /// }
-    /// else if (pressedKey == ConsoleKey.N)
-    /// {
-    ///     Console.WriteLine("You pressed No.");
-    /// }
-    /// </code>
-    /// </example>
+    /// <param name="key">The key that was pressed by the user.</param>
+    /// <param name="allowed">An array of allowed keys that the user can press.</param>
+    private static void WaitFor(out ConsoleKey key, params ConsoleKey[] allowed)
+    {
+        while (Console.KeyAvailable)
+        {
+            Console.ReadKey(intercept: true);
+        }
+        while (!allowed.Contains(key = Console.ReadKey(true).Key)) { }
+    }
 }
 
 public static class Extensions
