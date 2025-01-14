@@ -1,6 +1,11 @@
-## Assignment Acceptance Criteria
+## Universal Acceptance Criteria
 
 1. You must understand every single line of your solution.
+1. Your code must compile and run without errors.
+1. You must turn in your repository URL in Brightspace.
+
+## Assignment Acceptance Criteria
+
 1. Prompt the user for their first name using `Console.ReadLine()`. 
 1. Prompt the user for their last name using `Console.ReadLine()`. 
 1. Concatenate their first & last: `Tim Valley` using string interpolation.
