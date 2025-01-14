@@ -65,7 +65,7 @@
 
 ### Debug in VSCode  
 1. Open VSCode: `code .`  
-2. Configure `ctrl+,`: "Csharp debug console" → `externalTerminal`.  
+2. Configure `ctrl+,`: "csharp.debug.console" → `externalTerminal`.  
 3. Generate C# assets: `.NET: Generate Assets for Build and Debug`.  
 4. Start debugging with `F5`.  
 
