@@ -1,2 +1,2 @@
-# CIS-230-SP25 Template
-This is the project template for CIS-230-SP25. It includes a solution structure with projects for Console, Library, API, and Tests.
+# CIS-230-SP25 Course Home
+[Brightspace](https://mycourses.ccu.edu/d2l/home/39067)
