@@ -1,5 +1,7 @@
 # Week 01
 
+![](Week01.gif)
+
 ## Universal Acceptance Criteria
 
 1. You must understand every single line of your solution.
