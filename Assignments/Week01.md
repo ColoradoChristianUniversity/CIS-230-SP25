@@ -17,11 +17,11 @@
 1. Write to the console a message like "Hello, Tim! Your age is 25": `Console.WriteLine()`.
 1. Colorize the output with a blue background & yellow foreground: `ConsoleColor`.
 1. After output, restart the question sequence in an easy-to-use loop. 
+1. You must use `SayHello()` to build your output string.
 
 ## Bonus Acceptance Criteria
 
 1. Clear the console before final output. 
-1. Place "menu" logic in the `Console.Library` project. 
 1. Add error handling if the user enters blank for their name.
 1. Add error handling if the user enters a non-number for their birth year.
 
