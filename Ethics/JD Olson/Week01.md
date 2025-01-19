@@ -97,5 +97,13 @@ First Principle:
 
 Even though it can be scary, pushing important decisions up the chain can often be a good idea, regardless the outcome.
 
+Excursus:
+
+This case study highlights the moral tug-o-war we may face in the workplace as Christians. One one hand we can fulfill what is asked of us or we can resist due to our beliefs. Either way we can still handle such situations with respect and professionalism and often find suitable ways around the problem that will satisfy both parties.
+
+My Choice:
+
+I would almost certainly choose option number 2 and ask to be assigned to a different project. This option offers a gracful way to exit the scenario while still allowing you to offer immense value to the company by asking for other work in which to utilize your skills.
+
 
 
