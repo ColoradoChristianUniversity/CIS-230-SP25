@@ -41,31 +41,33 @@ There is a time for everything, and sometimes it is the best course of action to
 
 <h2>Pros:
 
-- Allows me to respectfully offer help elsewhere
+- Allows for the possibility of not laying 175 off of work based on data
 
-- Allows morals and standards to be upheld
+- Can save the customer from legal trouble in the future if workers decide to sue
 
-- Keeps professionalism and reduces the need to make a scene
+- Talking about considering the negative impact of the decision will establish credibility as a consultant
 
 <h2> Cons:
 
-- May set a bad opinion of your ability to fulfill assigned responsibilities
+- Might be overstepping the bounds of your job
 
-- Has the potential to escalate and turn into a sour situation if not dealt with correctly or graciously
+- Customer may become agitated that you think their idea is bad and refuse your business 
 
 Script:
 
-- Me: Hi (Supervisor Name), I noticed the project i was just assigned to and was wondering about the possibility of being reassigned to a different project. I feel as if my skills would be better used elsewhere as i am not necessarily comfortable working on this project.
-- Supervisor: Ok i understand, while it would be nice to have more people on board for this project i appreciate you coming to me and we can totally get you reassigned.
-- Me: Ok thank you I am looking forward to this new project.
+- Me: So, after looking at the machine learning data, it seems the easiest way to meet your efficiency goals would be to lay off a significantart of your work force, however I would advise against this due to the potential setbacks that may occur as a result.
+- Customer: Ok but we would really like to achieve our goal and are willing to do whatever it takes even if it means firing people.
+- Me: I understand that but firing that many people might hurt you companies brand image and you may fall into legal trouble from angry employees. We can look at alternative strategies that might not have as drastic of a conclusion than firing many of your employees if that would be ok.
+
+-  Customer: I appreciate your input on this scenario, i had not thought of that, yes let's think about some better alternatives. 
 
 Scripture: 
 
-Romans 14:22 (NIV) - "So whatever you believe about these things keep between yourself and God. Blessed is the one who does not condemn himself by what he approves."
+Proverbs 19:2 (NIV) - "Desire without knowledge is not good - how much more will hasty feet miss the way!"
 
 First Principle:
 
-There can certainly be a balance between keeping ones dignity and integrity while still being respectful and willing to do work.
+Typically it is best to consider all the options and not jump headfirst into a decision without understanding what might happen as a result.
 
 <h2>Option 3: Bring your reservations and questions to the higher management
 
