@@ -72,36 +72,41 @@ Truth is something that can alwasy help. Sometimes people and clients do not ful
 ### Option 3: Express Ethical Concerns to Manager
 #### 1. Pros
 
-* 
-* 
-* 
+* Is honest and blameless
+* Could result in a changed decision
+* Could result in a changed assignement
 
 #### 2. Cons
 
-* 
-* 
-* 
+* Could be seen as not committed by manager
+* Could lead to frustrations by manager
+* Could be forced to do the work/projct anyway
 
 #### 3. Script
 
 **Me:** "Hello, as I was looking over this project, I read that it would lead to a mass lay off at the company. This is something that ceratinly makes me uncomfortable and will weigh on my conscious."
 
-**Manager:** 
+**Manager:** "I can certainly see what you are saying and understand how you feel. Unfortuantely it is not our job to police our clients and the way they do business but to simply provide what they need."
 
-**Me:** 
+**Me:** "I understand. Is there any way I can be moved to a different project?"
+
+**Manager:** "No. Unfortunately I need you on this project. Nobody else can do it."
 
 #### 4. Scripture
 
-> **Scripture** <br> 
+> **1 Peter 2:15** <br> For this is the will of God, that by doing good you should put to silence the ignorance of foolish people.
+
+> **Ephesians 4:18** <br> They are darkened in their understanding, alienated from the life of God because of the ignorance that is in them, due to their hardness of heart.
 
 #### 5. First Principle
-
+Sometimes seeking to to good is all the spark that is needed to ignite change. However, it doesn't always work that way. Sometimes others will be close minded or not have the ability to change things. Seeking to do good to others is commendable but the world doesn't always hold the same values. 
 
 ## Excursus
 
-The dilemma here is that 
+The dilemma here is that the client is attempting to save money and become more profitable by finding ways to lay off mass amounts of current employees. 
 
-This is an issue because as Christians, 
+This is an issue because as Christians, we seek to help others, to not do harm to others, and to not seek money over the well being of others. While doing this project may not be *me* doing all those things, my doing this project will directly help someone else accomplish all of those things. 
 
 ## My Choice
 
+I would choose option 3. While I clearly do not want to do this work, I also have earnetly seeked not to and to express my discomfort. God knows my heart and my desire for truth. If He calls me to leave my job over the project then he will guide my steps to that end; if He knows I tried and will do more good staying at the job, despite the consequences of some of the projects, he will guide my steps to stay. However, I also do not understand the full picture. While I don't want to aid in eliminating so many jobs for the sake of profit, I can never fully know why things happen. Some of these people getting fire may be what God actually *wants*. Not beacuse He wants to see them suffer but befacuse His plan is better than anyone knows. It is the same reason for understaing the problem of evil. We do not always know why we go through bad things, but we do know that God is soverign and God is good. Always.
