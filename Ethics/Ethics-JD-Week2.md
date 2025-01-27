@@ -55,7 +55,7 @@ There is a time for everything, and sometimes it is the best course of action to
 
 Script:
 
-- Me: So, after looking at the machine learning data, it seems the easiest way to meet your efficiency goals would be to lay off a significantart of your work force, however I would advise against this due to the potential setbacks that may occur as a result.
+- Me: So, after looking at the machine learning data, it seems the easiest way to meet your efficiency goals would be to lay off a significant part of your work force, however I would advise against this due to the potential setbacks that may occur as a result.
 - Customer: Ok but we would really like to achieve our goal and are willing to do whatever it takes even if it means firing people.
 - Me: I understand that but firing that many people might hurt you companies brand image and you may fall into legal trouble from angry employees. We can look at alternative strategies that might not have as drastic of a conclusion than firing many of your employees if that would be ok.
 
@@ -69,43 +69,39 @@ First Principle:
 
 Typically it is best to consider all the options and not jump headfirst into a decision without understanding what might happen as a result.
 
-<h2>Option 3: Bring your reservations and questions to the higher management
+<h2>Option 3: Remove the option to fire 175 employees from your meeting with the customer
 
 <h2>Pros:
 
-- Instantly makes the immediate reservations known to leadership
+- Entirely removes the possibility of people losing their jobs
 
-- Can potentially save the company a painful issue
-
-- Might be exaclty what others are wanting to do but are too nervous to actually do
+- Allows for other less impactful options to be considered
 
 <h2> Cons:
 
-- May be percieved as a wish to remove workload or responsibility 
+- Possibly not the best ethical option since you are hiding something from your customer
 
-- May lead to questions on the validity of such questions if everyone else is fine with the work
-
-- At an extreme could lead to job loss if leadership doesnt want people asking questions about who to work with
+- Could be a problem later if the customer finds out you neglected to give them the most efficient option
 
 Script:
 
-- Me: Thank you for meeting with me today, i wanted to address some issues going through with serving this client may present. 
-- Management: And those are??
-- Me: Well, it seems that many of us who would be working in this are uncomfortable with this client and do not think our time and attention should be spent on such divisive cleintel.
--   Management: That is noted however these clients will significantly help our bottom line and if do not wish to work with them then you are not going to work here any longer.
+- Me: Ok so after the analysis we have a few options to consider
+- Customer: Great! thanks for your work on this
+- Me: Of course, we can look into providing more efficient software for your employees to use in addition to rethinking the workflow of your company to try and make things more efficient.
+-   Management: Ok we can absolutley implement these changes
 
 Scripture: 
 
-Proverbs 16:12: - "Good leaders abhor wrongdoing and have a moral foundation."
+Proverbs 11:13 (NIV): "A man of understanding holds his tongue" 
 
 First Principle:
 
-Even though it can be scary, pushing important decisions up the chain can often be a good idea, regardless the outcome.
+While it may seem unethical, withholding detrimental information may sometimes be the best choice if it can lead to severe misfortune
 
 Excursus:
 
-This case study highlights the moral tug-o-war we may face in the workplace as Christians. One one hand we can fulfill what is asked of us or we can resist due to our beliefs. Either way we can still handle such situations with respect and professionalism and often find suitable ways around the problem that will satisfy both parties.
+This case is an example that happens often in the modern workplace where technology can be used to improve operations and efficiency. While this may be a good thing in many cases there are also implications far beyond the business. These decisions can have an impact on families and livelihoods which is why a high level of discernment must be used to come to the appropriate conclusion. 
 
 My Choice:
 
-I would almost certainly choose option number 2 and ask to be assigned to a different project. This option offers a gracful way to exit the scenario while still allowing you to offer immense value to the company by asking for other work in which to utilize your skills.
+In this scenario i would choose option 2 because it allows me to make a case for the best decision while still doing the job i was asked to do unlike option 3. I think that if there are other solutions just as effective to the "best" one according to an algorithm then they should certainly be considered and hopefully acted upon.
