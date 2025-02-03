@@ -80,4 +80,4 @@
 
 
 ## My Choice
-#### I would choose Response #3. As a Christian, there is a concern for the vulnerable and the oppressed. The weight of saving lives outweighs the weight of needing another paycheck. Child trafficking is an evil and horrible crime. The Bible also tells us that we need to submit to our governing authorities, and going against them in this situation is the wrong decision. This is the best decision as it can save lives and seeks the well-being of others.
+#### I would choose Response #3. As a Christian, there is a concern for the vulnerable and the oppressed. The weight of saving lives outweighs the weight of needing another paycheck. Child trafficking is an evil and horrible crime. The Bible also tells us that we need to submit to our governing authorities, and going against them in this situation is the wrong decision. This is the best decision as it can save lives and seeks the well being of others.
