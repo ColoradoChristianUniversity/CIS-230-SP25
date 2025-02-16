@@ -28,7 +28,7 @@ Just a week or two into class, one of your students submits an assignment that i
 
 **Me:** I just wanted you to explain why your assignment looks almost like a 1 for 1 copy of the (Youtube Video) and why that might have happened?
 
-**Student:** Ok, so basically I didn't have any time and just copied the Youtube video.  
+**Student:** Ok, so basically I didn't have any time and just used the Youtube video.  
 
 
 #### Scripture Reference:  
@@ -66,38 +66,36 @@ Just a week or two into class, one of your students submits an assignment that i
 
 ---
 
-### **Option 3: Both check in on your co-worker and work hard at keeping the customer**  
+### **Option 3: Talk things over with the head administrator to see what the best course of action might be**  
 #### Pros: 
--  Will hopefully make things pan out for the business to keep the relationship
--  Can create a good outcome for your co-worker 
--  May be a win-win scenario for both the business and your co-worker
+-  Allows you to show your committment to making the right decision for the school
+-  Might gain some valuable insights you can take into the next scenario
 
 #### Cons: 
--  Typically you cannot always make everything work perfectly everytime so this choice has some potential issues
+-  May show lack of independent decision making skills
 
 #### Script: 
-**Me:** Hey (co-worker), just wanted to check in and get you connected with some mental health professionals so that you can beat this depression, I am also going to work hard to make this deal work out between us and the customer.  
+**Me:** Hey (Head Administrator), I have a current situation involving work that has been copied from a youtube video and was wondering what the best course of action might be.  
 
-**Co-worker:** Wow thank you, that is so nice of you, and yes i am sure this will work out.  
+**Head Admin:** Understood, I think this will be a great experience for you to handle but i will help guide you along the way.  
 
-**Me:** Great, so glad i can help in any way, let me know if you need anything else while i am working.  
+**Me:** Thank you, I just really want to make the right choice.  
 
 
 #### **Scripture Reference:**  
--  1 Timothy 4:15-16 (NIV). "Be diligent in these matters; give yourself wholly to them, so that everyone may see your progress. Watch your life and doctrine closely. Persevere in them, because if you do, you will save both yourself and your hearers."
+-  Matthew 7:7-12  (NIV). "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you"
 
 #### **First Principle:**  
-- We can be diligent in all we do and even though sometimes we cannot do everything
+- Sometimes all we can do is go and seek guidance from someone we respect
 
 ---
 
 ## **Excursus:**  
-- This scenario could either end really well, or very poorly depending on your solution
-- This probably happens quite often and is simply part of interacting with other humans in the workplace
-- With the proper measures, this outcome could be positive
+- This is certainly a tough scenario and requires much discernment as to the action that should be taken
+- It is probably best to hear all the information and gather as much evidence as possible before making a decision
 
 ---
 
-## **My Choice: Option 3 **  
-- I think combining a bit of option 1 and 2 into option 3 would be the best choice because it covers all the ethical issues
-- I would make sure the co-worker is ok and then focus heavily on supporting the project since the two choices are not mutually exclusive.
+## **My Choice: Option 1 **  
+- I think option one is probably best as it addresses the issue immediatly and allows the student to explain themselves
+- It would also be wise to potentially incorporate the re-iteration of the rules like in option 2 in this one as well 
