@@ -9,7 +9,7 @@ You are a Computer Science professor at a local university teaching C Sharp to s
 
 **Then this**
 
-Just a week or two into class, one of your students submits an assignment that is very good. Too good? You check and discover the code is identical to a C# tutorial on the internet. It is clear the student copied the code. The writing is on the wall. But remember, you love this student: you don't want to overreact. But you love your other students too: you want to be fair. You are also a new professor at this university: you don't want to underreact. A lot to think about. What do you do?
+Just a week or two into class, one of your students submits an assignment that is very good. Too good? You check and discover the code is identical to a C# tutorial on the internet. It is clear the student copied the code. The writing is on the wall. But remember, you love this student: you don't want to overreact. But you love your other students too: you want to be fair. You are also a new professor at this university: you don't want to underreact. A lot to think about. What do you do? 
 
 # Dilemma Breakdown:
 The first part of this dilemma is deducing whether the actions taken by the student are classified as plagiarism, followed quickly by an appropriate punishment. However, the punishment should not be too harsh since you like this student and still want them to like you, and it should not be too lenient since you are new to this institution and should follow the rules.
