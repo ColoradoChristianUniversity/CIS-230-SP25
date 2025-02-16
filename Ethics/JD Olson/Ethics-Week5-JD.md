@@ -13,58 +13,56 @@ Just a week or two into class, one of your students submits an assignment that i
 
 ## Three Possible Responses  
 
-### **Option 1: Check in on your Co-worker and make sure they are ok regardless of the project outcome**  
+### **Option 1: Ask to speak to the student in private and allow them to explain**   
 #### Pros: 
--  Shows that you care about the well-being of those you work with
--  Limits any unfortunate choice your co-worker may decide to make in response to the project
--  May inspire your co-worker to work hard to make the project work
+-  Displays initial trust in the students ethical compass
+-  Places an emphasis on discretion
 
 #### Cons:
--  Could make the project fail if you are more focused on your co-workers health than the task at hand
--  Might make things worse if you draw too much attention to your co-worker
-
+-  Might be a waste of time if the signs are obvious enough
+-  Might not get the full story 
 #### Script:
-**Me:** Hey (Co-worker), I wanted to check in and see how you are doing with everything, I know that your feeling down and I want you to know I am here for you.  
+**Me:** Hey (Student), I was wondering if we could speak in private about your assignment.  
 
-**Co-worker:** I appreciate it, yes I have not been doing so good and I think if this project doesn't pan out things will not be good at all.
+**Student:** Ok sure, we can do that.
 
-**Me:** Im so sorry to hear than, well I can help get you in contact with some professional help and then we can go from there, also I can take on some of your work if that would make things a little easier in this difficult season. 
+**Me:** I just wanted you to explain why your assignment looks almost like a 1 for 1 copy of the (Youtube Video) and why that might have happened?
 
-**Co-worker:** Ok, thank you.  
+**Student:** Ok, so basically I didn't have any time and just copied the Youtube video.  
+
 
 #### Scripture Reference:  
--  Mark 12:30-31 (NIV):  "Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.' 31 The second is this: ‘Love your neighbor as yourself.’ There is no commandment greater than these.”
+-  Proverbs 12:17 (NIV):  "An honest witness tells the truth, but a false witness tells lies.”
 
 #### First Principle: 
--  Sometimes the best thing we can do in a situation is love those around us endlessly
+-  It is best to allow people to tell the truth
 
 ---
 
-### **Option 2: Focus on making the project a success and encourage your co-worker to do the same** 
+### **Option 2: Allow the student to come forward and ask you questions and explain themselves, then reiterate the rules**
 #### Pros:
-- Could create a situation where you keep the client due to your hard work
-- Shows your committment to the company that you desire to make things work out
+- Creates an opportunity for grace to abound and a second chance to be accepted
+- Will eliminate any confusion going forward
 
 #### Cons:
-- In the pursuit of keeping the client your co-worker might fall further into depression
-- May be a waste of time if your efforts do not produce the desired outcome
-- If the client is lost then it could cause your co-worker to go over the edge
+- May lead to more of these situations happening if other students hear about the situation
+- Student may never come forward which defeats the purpose of letting them come to you
 
 #### Script: 
-**Me:** I am going to work as hard as possible to make sure the relationship with our customer is secure. 
+**Student:** Hey, I had a question about my assignment and what we can and can't use as resources to influence our assignments. 
 
-**Boss:** I am glad to hear it, we really need this to work out, also maybe check in on (co-worker) to make sure everything is ok.  
+**Me:** Ok i would love to help clarify any questions you might have.  
 
-**Me:** Ok I could do that, not sure it is too necessary at this moment since there are more critical decisions to be made.
+**Student:** Ok so I used a Youtube video as inspiration and guidance on how to complete the assignment but im not sure if that is ok, i needed to get it done and it was very helpful and i learned alot from it.
 
-**Boss:** Sure i get that, thank you for your willingness to work so hard.  
+**Me:** Well thank you for coming to me about this, I would be happy to rephrase the rules for you and then we can go from there
 
 #### **Scripture Reference:**  
--   Collosians 3:23 (NIV): "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters"
+-   2 Corinthians 12:9 (NIV): "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness”"
 
 
 #### **First Principle:**  
--  We should work as hard as we can for anything we do, because we do it for the Lord
+-  We can have grace for others because God has endless amounts of grace for us 
 
 ---
 
