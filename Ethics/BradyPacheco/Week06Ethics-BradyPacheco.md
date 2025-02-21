@@ -1,4 +1,4 @@
-# Ethics Assignment Week 04
+# Ethics Assignment Week 06
 #### Brady Pacheco
 
 ## Question
