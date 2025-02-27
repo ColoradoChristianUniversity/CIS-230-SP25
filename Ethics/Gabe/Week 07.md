@@ -6,7 +6,7 @@ A junior engineer at your company, leveraging advanced Artificial Intelligence, 
 
 - Protects the Company.
 - Shows you have integrity.
-- Sets a precedence to not rely solely on AI. 
+- Sets a precedent to not rely solely on AI.
 
 #### 2. Cons
 
@@ -15,13 +15,13 @@ A junior engineer at your company, leveraging advanced Artificial Intelligence, 
 
 #### 3. Script
 
-**Me:** "Hi, about the project. I know others are impressed with the speed of the project, but knowing that AI did most of the work, I think we should double check the project to make sure everything fits how we want."
+**Me:** Hi, about the project. I know others are impressed with the speed of the project, but knowing that AI did most of the work, I think we should double-check the project to make sure everything fits how we want.
 
 **Management:** "Do you think there is an issue?"
 
 **Me:** "I am not sure, but I want to be able to go above the standard rather than aiming to impress by the speed."
 
-**Management** "Okay we can look over everything to see if it meets our standards."
+**Management** "Okay, we can look over everything to see if it meets our standards."
 
 #### 4. Scripture
 
@@ -29,7 +29,7 @@ A junior engineer at your company, leveraging advanced Artificial Intelligence, 
 >"The prudent see danger and take refuge, but the simple keep going and pay the penalty."
 
 #### 5. First Principle
-"The responsibility that you hold is not just to your friend. It's to your employer and those that are also relying on this projcet. This makes sure that the company is safe and looks for the collective good."
+"The responsibility that you hold is not just to your friend. It's to your employer and those who are also relying on this project. This ensures that the company is safe and looks out for the collective good."
 
 ***
 ### Option 2: Keep Quiet and Support the Friend
@@ -37,18 +37,18 @@ A junior engineer at your company, leveraging advanced Artificial Intelligence, 
 
 - Will lead to potential growth in friend's success.
 - Preserves the friendship.
-- A potential win for AI
+- A potential win for AI.
 
 #### Cons
 
-- Potenial costs and risk to company. 
+- Potential costs and risks to the company. 
 - Could grow reliance on AI without proper oversight
 
 #### Script
 
 **Me:** "Great job on the project man! You finished it crazy fast."
 
-**Friend:** "Thanks! The AI had handled most of the project."
+**Friend:** "Thanks! The AI handled most of the project."
 
 **Me:** "Yea man, you're doing great!"
 
@@ -58,14 +58,14 @@ A junior engineer at your company, leveraging advanced Artificial Intelligence, 
 >"Therefore encourage one another and build each other up, just as in fact you are doing."
 
 #### 5. First Principle
-"Assuming that your friend put a lot of work in with the AI shows the confidence in their skills. Questioning them without clear knowledge of bad use, could undermine relationships."
+"Assuming that your friend put a lot of work in with the AI shows confidence in their skills. Questioning them without clear knowledge of bad use could undermine relationships."
 
 ### Option 3: Bring it up to Your Friend Privately
 #### 1. Pros
 
-- Your acting on your concerns, shows integrity.
+- Your acting on your concerns shows integrity.
 - Can fix potential risks early before getting to management. 
-- Encourages growth
+- Encourages growth.
 
 #### 2. Cons
 
@@ -78,7 +78,7 @@ A junior engineer at your company, leveraging advanced Artificial Intelligence, 
 
 **Friend:** "The AI wrote the code, but I went back and fixed some issues. I think it'll hit everything."
 
-**Me:** "Maybe we should look at some of it together to make sure, it could lead to harm to the company and you if it doesn't."
+**Me:** "Maybe we should look at some of it together to make sure. It could lead to harm to the company and you if it doesn't."
 
 **Friend** "That's a good point, thanks for wanting to help. We should do that now."
 
@@ -88,7 +88,7 @@ A junior engineer at your company, leveraging advanced Artificial Intelligence, 
 > "Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness."
 
 #### 5. First Principle
-"True friendship requires honesty. By privately raising concerns and offering assistance, it shows a lending hand instead of an attack. "
+"True friendship requires honesty. By privately raising concerns and offering assistance, it shows a lending hand instead of an attack."
 ***
 
 ## Excursus
@@ -97,4 +97,4 @@ The ethical dilemma that presents itself in this scenario is on balancing your f
 
 ## My Choice
 
-"I would choose option 3 for the first time around. I believe that option 1 does not tend to the call of extending grace. Option 2 does not allow for there to be accountability. Even if there is not an issue with this project, if he continues in the future, there could be major issues. Option 3 holds integrity and offers grace. It allows the friend to be able to take the experience and learn from it and make sure that he is not heavily reliant on AI. It brings honesty and shows compassion. It also protects the company as you and your friend look to fix the issues.
+I would choose option 3 for the first time around. I believe that option 1 does not tend to the call of extending grace. Option 2 does not allow for there to be accountability. Even if there is not an issue with this project, if he continues in the future, there could be major issues. Option 3 holds integrity and offers grace. It allows the friend to be able to take the experience and learn from it and make sure that he is not heavily reliant on AI. It brings honesty and shows compassion. It also protects the company as you and your friend look to fix the issues.
