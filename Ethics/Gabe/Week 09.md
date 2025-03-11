@@ -28,8 +28,8 @@ While writing some code Saturday night, you realize you have introduced a crippl
 "Taking immediate action to fix this bug will show that you have a commitment to uphold the responsibility that has been put on you. This shows reliability and that you're committed with integrity."
 
 ***
-### Option 2: Tell your Team, but Wait Until Monday to Move Forward
-#### Pros
+### Response 2: Tell your Team, but Wait Until Monday to Move Forward
+
 
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
@@ -52,7 +52,7 @@ Allows your team to step in and work on it. | Could bring more issues to the sys
 #### 5. First Principle
 "Honoring God's command to rest is more essential than breaking this commitment to work."
 
-### Option 3: Contact Leadership and Let Them Decide
+### Response 3: Contact Leadership and Let Them Decide
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
 | Shows that you are seeking guidance.          | Leadership could put blame on you.       |
