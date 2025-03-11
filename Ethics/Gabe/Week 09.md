@@ -72,12 +72,12 @@ This ensures that the best decision can be made. | May not give a decision by th
 > "In the same way, you who are younger, submit yourselves to your elders. All of you, clothe yourselves with humility toward one another, because God opposes the proud but shows favor to the humble."
 
 #### 5. First Principle
-""
+"This response shows the value of others input. Then the whole team will benefit from leadership. Rather than that pressure solely laying on you."
 ***
 
 ## Excursus
-
+The ethical dilemma that is show here shows the tension between doing your professional responsibility and honoring God's commandment. As Christians, the call to rest is important, but it is also important that we recognize our responsibility to fulfill our professional duties. Choosing to fix will not honor the Lord's commitment. But delaying your duty to your job to rest is biblically important as well. Here, we need to discern whether or not to take action or staying true to what the Lord commanded. Either way, your decision should still honor the Lord. 
 
 
 ## My Choice
-
+I think realistically, I would go with choice 3. I find myself leaning towards Choice 2 because of that full commitment to rest. But even though this is restful, it does not achieve my responsibility as a professional. Choice 3 is smart because it shows that there is humility as I won't make decisions alone, and trust in my leadership. The Management knows how important the rest is to me, and from what I understand, they have honored that commitment. By letting them know, if they want me to work then I know how urgent of a scenario this is. This upholds my values and my responsibilites. Choice 3 is ultimately the best decision.
