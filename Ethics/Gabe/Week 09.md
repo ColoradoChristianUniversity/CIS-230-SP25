@@ -62,7 +62,7 @@ This ensures that the best decision can be made. | May not give a decision by th
 
 **Me:** "Hey, I found a pretty major bug. I know I've made a commitment to rest on Sundays, but I want to know how you would handle this scenario?"
 
-**Management** "Thanks for letting me know. I'll see if it can wait or if someone else can handle it."
+**Management:** "Thanks for letting me know. I'll see if it can wait or if someone else can handle it."
 
 **Me:** "Okay thank you. I'll be ready when you need me."
 
