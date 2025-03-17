@@ -10,7 +10,7 @@ There was no time specified when you discovered this bug in the dilemma; therefo
 
 | ✅ Pros  | 🚫 Cons  |
 | -------- | --------- |
-| You ensure the job gets done right | Possibly losing sleep over the commitment  |
+| You ensure the job gets done right. | Possibly losing sleep over the commitment.  |
 | It might go past midnight, but it doesn't feel like "working the sabbath." | Staying up late hinders your ability to solve problems, making this fix take longer. |
 | Only minor delays for the feature implementation | If you cannot fix the bug, staying up could be for nothing. |
 | Makes sure that no one else will run into the bug tomorrow. |    This problem could persist for many hours, causing you to lose sleep or time with your family. |
@@ -28,8 +28,8 @@ Because it is essential to get proper rest and maintain a healthy work-life bala
 
 | ✅ Pros  | 🚫 Cons  |
 | -------- | --------- |
-| Better work-life balance | Less sabbath time for the next day and less time with friends or family. |
-| A slightly delayed fix, but still a timely fix to cause minimal issues. | It could change expectations of your agreement since it shows you can work on Sundays |
+| Better work-life balance. | Less sabbath time for the next day and less time with friends or family. |
+| A slightly delayed fix, but still a timely fix to cause minimal issues. | It could change expectations of your agreement since it shows you can work on Sundays. |
 ### Expected Dialogue:
 - Me: "Sorry for the delay. Here's the patch for the critical bug I found."
 - Supervisor: "That's surprising. I thought you couldn't work Sundays."
@@ -46,10 +46,10 @@ Reverting versions to avoid system crashing bugs is nothing new in the tech worl
 
 | ✅Pros | 🚫Cons |
 | ------ | ------- |
-| Possibly the quickest solution. A small reversion or not implementing the code.      |    It could revert some of the other developers' work, halting progress.                                        |
-|     Possibly the easiest solution. This would push the brunt of the work for later.      | If the reversion is not possible, it still impacts everyone and brings a bad reputation to your beliefs since they negatively impact productivity. |
+| Possibly the quickest solution. A small reversion or not implementing the code. | It could revert some of the other developers' work, halting progress. |
+| Possibly the easiest solution. This would push the brunt of the work for later. | If the reversion is not possible, it still impacts everyone and brings a bad reputation to your beliefs since they negatively impact productivity. |
 | Saves you sleep tonight instead of working on it throughout the night. | The deadline could have been for tonight; therefore, this will cause delays.|
-|              | Possibly not an option.           |
+|              | Possibly not an option. |
 ### Expected Dialogue:
 - Me: "Hey! Last night, I was working on developing the new feature, and by the time I realized something was wrong, I was done with its development and implemented it into the main. Would it be possible to revert my implementation so I can fix it on Monday?"
 - Supervisor: "Okay, that will cause some delays. Can't you fix it tomorrow?"
