@@ -5,8 +5,8 @@ While working your dream job for a major engineering firm, you get an email from
 
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
-| Better Team Culture.           | Compromises Individual Beliefs and values.         |
-| Job Security.                |   Others assume you fully support.   |
+| Better team culture.           | Compromises individual beliefs and values.  |
+| Job security.                |   Others assume you fully support.   |
 | May give a chance for sharing your views.         | Limits your ability to get out of this later. |
 
 
@@ -14,7 +14,7 @@ While working your dream job for a major engineering firm, you get an email from
 
 **Me:** [Response to Email] "Thank you for the email! I've updated my signature as requested."
 
-**HR:** "Thank you for doing that. We'll be looking forward to you picking up your rainbow pin."
+**HR:** "Thank you for doing that. We'll be looking forward to your picking up your rainbow pin."
 
 **Me:** "Sounds good, see you then!"
 
@@ -25,7 +25,7 @@ While working your dream job for a major engineering firm, you get an email from
 >"If it is possible, as far as it depends on you, live at peace with everyone."
 
 #### 5. First Principle
-By complying to the request, this is a step to build relationship which can give you a stronger platform later to share my faith. Opening doors now can create meaningful conversations later.
+"By complying with the request, this is a step to build a relationship, which can give me a stronger platform later to share my faith. Opening doors now can create meaningful conversations later."
 
 ***
 ### Response 2: Ignore the Email
@@ -33,16 +33,16 @@ By complying to the request, this is a step to build relationship which can give
 
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
-| Maintains your beliefs. | Risks Job Security.    |
-Allows you to focus on your work. | Weakens Relationship with Team.   | 
+| Maintains your beliefs.       | Risks job security.    |
+| Allows you to focus on your work. | Weakens relationship with team.   | 
 
 #### Script
 
 **Me:** [Shuts off Laptop after reading email]
 
-**Coworker:** "Hey did you read the email from HR?"
+**Coworker:** "Hey, did you read the email from HR?"
 
-**Me:** "Yea, that's not really my thing so I'm not going to mess with it for right now."
+**Me:** "Yeah, that's not really my thing, so I'm not going to mess with it for right now."
 
 **Coworker:** "Fair enough."
 
@@ -52,22 +52,22 @@ Allows you to focus on your work. | Weakens Relationship with Team.   |
 >"But even if he does not, we want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up."
 
 #### 5. First Principle
-Being steadfast in your beliefs shows the meaning in what you believe. This values personal values over corporate expectation. 
+"Being steadfast in your beliefs shows the meaning in what you believe. This values personal beliefs over corporate expectations."
 
 ### Response 3: Respond to the Email Privately with some Pushback
 
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
-| Honors your Values and Beliefs.   | Risk Backlash from HR.       |
-Keeps it professional while seeking compromise. | Strain your Reputation   | 
+| Honors your values and beliefs.   | Risk backlash from HR.       |
+| Keeps it professional while seeking compromise. | Strains your reputation.   | 
 
 #### 3. Script
 
-**Me:** [Response to Email] "Hi, I got your note about the pronouns and pin. I'm not sure that I am comfortable externally supporting something that I don't necessarily agree with.
+**Me:** [Response to Email] "Hi, I got your note about the pronouns and pin. I'm not sure that I am comfortable externally supporting something with which I don't necessarily agree"
 
-**HR:** "Thank you for reaching out. I see your point, we'd prefer full participation in this. Come by on Thursday, and we can talk more and figure out something."
+**HR:** "Thank you for reaching out. I see your point; we'd prefer full participation in this. Come by on Thursday, and we can talk more and figure out something."
 
-**Me:** "I appreciate that, I'd be happy to talk about it more."
+**Me:** "I appreciate that; I'd be happy to talk about it more."
 
 #### 4. Scripture
 
@@ -75,12 +75,11 @@ Keeps it professional while seeking compromise. | Strain your Reputation   |
 > "Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ."
 
 #### 5. First Principle
-Voicing your discomfort keeps your actions aligned with your belief. Seeking a solution that respects both sides. Balancing your truth and respect.
+"Voicing your discomfort keeps your actions aligned with your belief, seeking a solution that respects both sides and balancing your truth and respect."
 ***
 
 ## Excursus
-The ethical dilemma here is noting the conflict between your dream job's expectations and your own personal beliefs and values. This is a test to see how you hold your faith in a secular area. As a Christian, we must weight obediance to those above us against obediance to God. We must respect others and what they believe but also stay true to your own beliefs. How you handle this situation can shape your future at this company. 
-
+The ethical dilemma here is noting the conflict between your dream job's expectations and your own personal beliefs and values. This is a test to see how you hold your faith in a secular area. As a Christian, we must weigh obedience to those above us against obedience to God. We must respect others and what they believe but also stay true to our own beliefs. How you handle this situation can shape your future at this company.
 
 ## My Choice
-I would go with Response 3: Respond to the Email Privately with some Pushback. This option allows you to voice discomfort and stick to your faith. It seeks peach and opens dialogue so that there can be a mutual understanding between you and the HR. This shows a biblical balance that the other two responses don't reflect as well. Complying fully clashes with your faith. And Ignoring the request can bring risk and doesn't show respect to the authority that is above you. 
+I would go with Response 3: Respond to the Email Privately with some Pushback. This option allows you to voice discomfort and stick to your faith. It seeks peace and opens dialogue so that there can be a mutual understanding between you and HR. This shows a biblical balance that the other two responses don't reflect as well. Complying fully clashes with your faith, and ignoring the request can bring risk and doesn't show respect for the authority above you.
