@@ -38,7 +38,13 @@ Allows you to focus on your work. | Weakens Relationship with Team.   |
 
 #### Script
 
-**Me:** 
+**Me:** [Shuts off Laptop after reading email]
+
+**Coworker:** "Hey did you read the email from HR?"
+
+**Me:** "Yea, that's not really my thing so I'm not going to mess with it for right now."
+
+**Coworker:** "Fair enough."
 
 #### Scripture
 
@@ -46,7 +52,7 @@ Allows you to focus on your work. | Weakens Relationship with Team.   |
 >"But even if he does not, we want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up."
 
 #### 5. First Principle
-
+Being steadfast in your beliefs shows the meaning in what you believe. This values personal values over corporate expectation. 
 
 ### Response 3: Respond to the Email Privately with some Pushback
 
@@ -57,7 +63,11 @@ Keeps it professional while seeking compromise. | Strain your Reputation   |
 
 #### 3. Script
 
-**Me:** "
+**Me:** [Response to Email] "Hi, I got your note about the pronouns and pin. I'm not sure that I am comfortable externally supporting something that I don't necessarily agree with.
+
+**HR:** "Thank you for reaching out. I see your point, we'd prefer full participation in this. Come by on Thursday, and we can talk more and figure out something."
+
+**Me:** "I appreciate that, I'd be happy to talk about it more."
 
 #### 4. Scripture
 
@@ -65,7 +75,7 @@ Keeps it professional while seeking compromise. | Strain your Reputation   |
 > "Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ."
 
 #### 5. First Principle
-
+Voicing your discomfort keeps your actions aligned with your belief. Seeking a solution that respects both sides. Balancing your truth and respect.
 ***
 
 ## Excursus
