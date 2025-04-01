@@ -79,7 +79,8 @@ Voicing your discomfort keeps your actions aligned with your belief. Seeking a s
 ***
 
 ## Excursus
-
+The ethical dilemma here is noting the conflict between your dream job's expectations and your own personal beliefs and values. This is a test to see how you hold your faith in a secular area. As a Christian, we must weight obediance to those above us against obediance to God. We must respect others and what they believe but also stay true to your own beliefs. How you handle this situation can shape your future at this company. 
 
 
 ## My Choice
+I would go with Response 3: Respond to the Email Privately with some Pushback. This option allows you to voice discomfort and stick to your faith. It seeks peach and opens dialogue so that there can be a mutual understanding between you and the HR. This shows a biblical balance that the other two responses don't reflect as well. Complying fully clashes with your faith. And Ignoring the request can bring risk and doesn't show respect to the authority that is above you. 
