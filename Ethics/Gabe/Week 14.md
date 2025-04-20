@@ -6,7 +6,7 @@ You are part of a development team for a software company creating a machine lea
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
 | Maintains Job Security.          | Suppressing religious activities could create the feeling of comprising faith.  |
-| The tool could shine, and has great potential.          |   Potential to lead to global misuse.   |
+| Potential for Job Promotions.          |   Potential to lead to global misuse.   |
 | Avoids Risk.        | You are complicit in consequences. |
 
 
@@ -14,7 +14,7 @@ You are part of a development team for a software company creating a machine lea
 
 **Teammate:** "Hey man, I noticed you've been quiet since the update regarding targeting religious references. Do you want to stop working on the project?"
 
-**Me:** "No we are okay. This tool has taken a lot of work, I don't want to ruin that."
+**Me:** "No, we are okay. This tool has taken a lot of work; I don't want to ruin that."
 
 **Teammate:** "Sounds good, just checking."
 
@@ -25,7 +25,7 @@ You are part of a development team for a software company creating a machine lea
 >"Let everyone be subject to the governing authorities, for there is no authority except that which God has established."
 
 #### 5. First Principle
-"Committing to your role means putting your best effort in regardless of the outcome. It is your responsibility to deliver the product that your management is wanting."
+"Committing to your role means putting your best effort in, regardless of the outcome. It is your responsibility to deliver the product that your management wants."
 
 ***
 ### Response 2: Resign
@@ -38,9 +38,9 @@ You are part of a development team for a software company creating a machine lea
 
 #### Script
 
-**Me:** "I don't like where this tool is being headed towards. I am thinking of stepping away for good."
+**Me:** "I don't like where this tool is headed. I am thinking of stepping away for good."
 
-**Coworker:** "Are you sure? That's a lot of years of work that you could be throwing away."
+**Coworker:** "Are you sure? That's a lot of years of work you could be throwing away."
 
 **Me:** "Yeah, but this isn't what I signed up for and I don't feel good about it."
 
@@ -52,7 +52,7 @@ You are part of a development team for a software company creating a machine lea
 >"Vindicate me, Lord, for I have led a blameless life; I have trusted in the Lord and have not faltered."
 
 #### 5. First Principle
-"This prioritzes your convictions as a Christian over professional career gain. This aligns more with God's authority which is better than focusing on furthering human agendas."
+"This prioritizes your convictions as a Christian over professional career gain. This aligns more with God's authority, which is better than focusing on furthering human agendas."
 
 ### Response 3: Internally Voice Concerns
 
@@ -81,7 +81,7 @@ You are part of a development team for a software company creating a machine lea
 ***
 
 ## Excursus
-The ethical dilemma taking place in this scenario is between the joy in a new machine that groundbreaking with the unease about the role that it is playing in taking away religious presence from the public. As a Christian, we must honor our call to honor God. We must act in a way that reflects Christ while also still helping bring growth in the workplace and yourself. 
+The ethical dilemma taking place in this scenario is between the joy in a new machine that is groundbreaking and the unease about the role it is playing in taking away religious presence from the public. As Christians, we must honor our call to honor God. We must act in a way that reflects Christ while also still helping bring growth in the workplace and in yourself.
 
 ## My Choice
-I would go with option 3, Internally Voice Concerns. This honors my faith based concerns about how I feel about suppressing religion. This can lead to potentially redirecting the purpose of the tool and using it for something that is more suitable. And it preserves my job. 
+I would go with option 3, Internally Voice Concerns. This honors my faith-based concerns about how I feel about suppressing religion. This can potentially lead to redirecting the purpose of the tool and using it for something that is more suitable. And it preserves my job.
