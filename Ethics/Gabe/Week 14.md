@@ -12,70 +12,76 @@ You are part of a development team for a software company creating a machine lea
 
 #### 3. Script
 
-**Me:** [Response to Email] "Thank you for the email! I've updated my signature as requested."
+**Teammate:** "Hey man, I noticed you've been quiet since the update regarding targeting religious references. Do you want to stop working on the project?"
 
-**HR:** "Thank you for doing that. We'll be looking forward to your picking up your rainbow pin."
+**Me:** "No we are okay. This tool has taken a lot of work, I don't want to ruin that."
 
-**Me:** "Sounds good, see you then!"
+**Teammate:** "Sounds good, just checking."
 
 
 #### 4. Scripture
 
-*Romans 12:18*  
->"If it is possible, as far as it depends on you, live at peace with everyone."
+*Romans 13:1*  
+>"Let everyone be subject to the governing authorities, for there is no authority except that which God has established."
+
 #### 5. First Principle
-"By complying with the request, this is a step to build a relationship, which can give me a stronger platform later to share my faith. Opening doors now can create meaningful conversations later."
+"Committing to your role means putting your best effort in regardless of the outcome. It is your responsibility to deliver the product that your management is wanting."
 
 ***
-### Response 2: Try to Withdrawe or Redesign
+### Response 2: Resign
 
 
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
-| Maintains your beliefs.       | Risks job security.    |
-| Allows you to focus on your work. | Weakens relationship with team.   | 
+| Avoids any complicity.       | Sacrifices years of work.    |
+| Might encourage others. | Others could still finish project.   | 
 
 #### Script
 
-**Me:** [Shuts off Laptop after reading email]
+**Me:** "I don't like where this tool is being headed towards. I am thinking of stepping away for good."
 
-**Coworker:** "Hey, did you read the email from HR?"
+**Coworker:** "Are you sure? That's a lot of years of work that you could be throwing away."
 
-**Me:** "Yeah, that's not really my thing, so I'm not going to mess with it for right now."
+**Me:** "Yeah, but this isn't what I signed up for and I don't feel good about it."
 
 **Coworker:** "Fair enough."
 
 #### Scripture
 
-*Daniel 3:18* 
->"But even if he does not, we want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up."
+*Psalm 26:1* 
+>"Vindicate me, Lord, for I have led a blameless life; I have trusted in the Lord and have not faltered."
+
 #### 5. First Principle
-"Being steadfast in your beliefs shows the meaning in what you believe. This values personal beliefs over corporate expectations."
+"This prioritzes your convictions as a Christian over professional career gain. This aligns more with God's authority which is better than focusing on furthering human agendas."
 
 ### Response 3: Internally Voice Concerns
 
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
-| Honors your values and beliefs.   | Risk backlash from HR.       |
-| Keeps it professional while seeking compromise. | Strains your reputation.   | 
+| Could Potentially redirect the tool.  | Could have no impact.      |
+| A well-maintained balance of faith and work. | Threatens future job opportunities.  | 
 
 #### 3. Script
 
-**Me:** 
+**Me:** "Hi, I wanted to say that I am super excited about the progress of the tool so far. I am also a bit uneasy about how it could be used."
 
-**HR:** 
+**Management:** "What's wrong with it? They are just trying to keep these spaces neutral."
 
-**Me:** 
+**Me:** "I can understand that, but targeting religious references feels like it steps on freedom."
+
+**Management:** "I didn't think about that side of it. Let's talk to the team and see what everyone else thinks regarding this issue."
 
 #### 4. Scripture
 
-*Ephesians 4:15* 
-> "Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ."
+*Proverbs 31:8-9* 
+> "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy."
+
 #### 5. First Principle
-"Voicing your discomfort keeps your actions aligned with your belief, seeking a solution that respects both sides and balancing your truth and respect."
+"Your voice has meaning and voicing something that you don't agree with reflects a commitment to honesty with the people you work for. As Christians, we are called to speak truthfully."
 ***
 
 ## Excursus
-
+The ethical dilemma taking place in this scenario is between the joy in a new machine that groundbreaking with the unease about the role that it is playing in taking away religious presence from the public. As a Christian, we must honor our call to honor God. We must act in a way that reflects Christ while also still helping bring growth in the workplace and yourself. 
 
 ## My Choice
+I would go with option 3, Internally Voice Concerns. This honors my faith based concerns about how I feel about suppressing religion. This can lead to potentially redirecting the purpose of the tool and using it for something that is more suitable. And it preserves my job. 
