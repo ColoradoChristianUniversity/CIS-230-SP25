@@ -49,8 +49,8 @@ You are a software engineer working for a marketing firm that has been hired by 
 
 #### Scripture
 
-*Psalm 26:1* 
->""
+*Colossians 4:6* 
+>"Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer to everyone."
 
 #### 5. First Principle
 
