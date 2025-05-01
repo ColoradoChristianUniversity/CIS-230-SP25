@@ -1,83 +1,85 @@
 ## Prompt
 You're a software engineer in America. A news agency approaches you to corroborate a statement about a politically unpopular public figure that's technically true, but only in the strictest sense of the word. You suspect their agenda is to publicly cancel this person. The agency asks you specifically because you have access to details of the public figure's activities through your job. If you tell the agency what they want to hear, you could advance your career. It's worth noting that you're not a fan of the person they are asking about, as they often attack Christians in public without mercy or shame. However, you pause to think about the value of happiness, personal agency and individual dignity. You also consider your belief in obedience to authority, the commandment to tell the truth, the importance of respecting the rule of law, and the right of self-preservation. What are three possible responses? What do you do?
 
-### Response #1: Fix the Bug Immediately
+
+### Response #1: Tell Them to Use Publicly Available Information
 
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
-| Protects the company.           | Could delay the project timeline.         |
-| Shows integrity.                |   Might disrupt Sunday rest commitment.   |
-| Prevents future issues.         |   |
+| Keeps Professionalism & respects workplace.       | Could affect career gain.     |
+|  Will Build Credibility.      |   Upsets the Agency.  |
+
 
 
 #### 3. Script
 
-**Me:** "Hi, I wanted to let you know that I found a major bug in the system. Due to the urgency, I think I should fix it now, even though it's Sunday, rather than risk bigger issues potentially arising."
+**Me:** "I can't share that information, but there is enough information that is public for you to verify your information."
 
-**Management:** "Thanks for letting me know. I appreciate you sacrificing your time to fix this."
+**Agency:** "We know you have access to better details. This could speed up your career."
 
-**Me:** "Of course, I'll keep you updated!"
+**Me:** "I won't sell out just for personal gain. Check the public sources if that's what you are wanting."
 
 
 #### 4. Scripture
 
-*Luke 16:10*  
->"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much."
+*Proverbs 22:1*  
+>"A good name is more desirable than great riches; to be esteemed is better than silver or gold."
 
 #### 5. First Principle
-"Taking immediate action to fix this bug will show that you have a commitment to uphold the responsibility that has been put on you. This shows reliability and that you're committed with integrity."
+"Truth must be shared in a morally correct way. Redirecting to public information is smart as it avoids misuse of your role. Honor God through your actions, you are not the judge of this person's life."
 
 ***
-### Response 2: Tell your Team, but Wait Until Monday to Move Forward
+### Response 2: Negotiate with Agency
 
 
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
-| Honors your commitment to the Sabbath.          | May seem lazy to management.        |
-Allows your team to step in and work on it. | Could bring more issues to the system.       | 
+| Could secure career advancement.    | Agency might reject.     |
+Allows you to make sure your input is used wisely. | Potential Misuse.    | 
 
 #### Script
 
-**Me:** Hi, I found a major bug in the system last night. I know this is urgent, but I'm committed to taking Sundays off. I can address this with the team and see if someone else can look at it. If not, I'll look at it first thing on Monday.
+**Me:** "I can confirm this statement if you give your word to not spin my words."
 
-**Management:** "I understand. Let's see if someone else can get on top of that, otherwise it can wait till Monday."
+**Agency:** "Why the pushback? We don't spin other's words.""
 
-**Me:** "Thank you, I'll be ready on Monday!"
+**Me:** "You do, I'm saying i'll share this if you can avoid that and sign off on it."
+
+**Agency:** "We can do that. What can you share?"
 
 #### Scripture
 
-*Exodus 20:8* 
->"Remember the Sabbath day, to keep it holy."
+*James 3:18* 
+>"Peacemakers who sow in peace reap a harvest of righteousness."
 
 #### 5. First Principle
-"Honoring God's command to rest is more essential than breaking this commitment to work."
+"The truth should not be used to bring harm against others. Even if that person is ill-speaking about you."
 
-### Response 3: Contact Leadership and Let Them Decide
+### Response 3: Share All the Data with Them.
 | Pros                          | Cons                                   |
 |-------------------------------|----------------------------------------|
-| Shows that you are seeking guidance.          | Leadership could put blame on you.       |
-This ensures that the best decision can be made. | May not give a decision by the time it's needed.      | 
+| Secures career advancement.    | Weakens testimony as you place career over people.   |
+Voice disapproval of this person's attacks. | Violates Professional Ethics.  | 
 
 #### 3. Script
 
-**Me:** "Hey, I found a pretty major bug. I know I've made a commitment to rest on Sundays, but I want to know how you would handle this scenario?"
+**Me:** "My records confirm the statement, here is everything that I can pull on this."
 
-**Management:** "Thanks for letting me know. I'll see if it can wait or if someone else can handle it."
+**Agency:** "Thank you! What all is here."
 
-**Me:** "Okay thank you. I'll be ready when you need me."
+**Me:** "Everything that you need to verify the claim. Use it as you see fit."
 
 #### 4. Scripture
 
-*1 Peter 5:5* 
-> "In the same way, you who are younger, submit yourselves to your elders. All of you, clothe yourselves with humility toward one another, because God opposes the proud but shows favor to the humble."
+*Exodus 20:16* 
+> "You shall not give false testimony against your neighbor."
 
 #### 5. First Principle
-"This response shows the value of others' input. Then the whole team will benefit from leadership, rather than that pressure solely laying on you."
+"Avoiding false testimony means to share all the data and not hold back. This prioritizes truth as a Christian."
 ***
 
 ## Excursus
-The ethical dilemma shown here highlights the tension between fulfilling your professional responsibility and honoring God's commandment. As Christians, the call to rest is important, but it is also crucial that we recognize our responsibility to fulfill our professional duties. Choosing to fix the issue immediately may not honor the Lord's commandment, but delaying your duty to rest is biblically important as well. Here, we need to discern whether or not to take action or stay true to what the Lord commanded. Either way, your decision should still honor the Lord.
-
+The ethical dilemma here is forcing you to be able to make your way through truth as a Christian. This request is tempting you to feed into a "cancel" campaign for your own personal gain and career advancement. Love calls you to protect this person even though they come after your faith.Your choice shapes your witness, this brings you a chance to embody love and grace especially in a world where the culture is so quick to 'cancel' and condemn others.
 
 ## My Choice
-I think realistically, I would go with Choice 3. I find myself leaning towards Choice 2 because of that full commitment to rest. But even though this is restful, it does not fulfill my responsibility as a professional. Choice 3 is smart because it shows humility, as I won't make decisions alone, and trust in my leadership. Management knows how important rest is to me, and from what I understand, they have honored that commitment. By letting them know, if they want me to work, then I will know how urgent the scenario is. This upholds my values and my responsibilities. Ultimately, Choice 3 is the best decision.
+I think in all honesty I would do Choice 1 - Redirect to Public Sources. This does not misuse my job's private access. Unless it was confirmed by a boss of mine to share the information then I would not risk my authority. As I am withholding certain data, I am protecting the person's future, and also reflecting Christs's call to love our enemies, even when they are attacking Christians. This is a low risk approach which will minimize the conflict with my job and the agency.
